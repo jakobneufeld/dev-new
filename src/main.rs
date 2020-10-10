@@ -58,7 +58,7 @@ fn main() {
 }
 
 fn custom(dir: &PathBuf, name: &str, toml: toml::Value) {
-    l
+    
 
 }
 fn generate_rust_project(dir: &PathBuf, name: &str ) {
